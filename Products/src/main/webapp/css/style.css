@@ -1,0 +1,11 @@
+.card {
+    margin-top: 2rem;
+}
+.login-tag {
+    display: inline;
+    margin-left: 0rem;
+}
+.forgot-tag {
+    display: inline;
+    margin-left: 1rem;
+}
